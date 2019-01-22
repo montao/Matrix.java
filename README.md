@@ -1,2 +1,2 @@
 # javamatrix
-A simple and correct matrix implemetation in Java
+A simple and correct matrix implementation in Java
